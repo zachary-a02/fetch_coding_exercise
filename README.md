@@ -124,5 +124,10 @@ scanned_brands_aggregated as (
 
 ---
 <b>Third: Evaluate Data Quality Issues in the Data Provided</b>
-1. These could be automated inside dbt utilizing data tests
+1. Located inside third directory
+2. These could be automated by utilizing dbt data tests
+
+---
+<b>Fourth: Communicate with Stakeholders</b>
+
 
