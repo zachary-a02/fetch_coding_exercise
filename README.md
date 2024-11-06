@@ -130,7 +130,11 @@ scanned_brands_aggregated as (
 ---
 <b>Fourth: Communicate with Stakeholders</b>
 
-
+See attachment Below or inside fourth directory 
+<details>
+[Fetch_Email.docx](https://github.com/user-attachments/files/17641236/Fetch_Email.docx)
+    
+</details>
 
 
 
